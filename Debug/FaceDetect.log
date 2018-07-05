@@ -1,0 +1,136 @@
+﻿生成启动时间为 2017/5/5 22:45:43。
+     1>项目“E:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\FaceDetect.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“.\Debug\FaceDetect.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\c++\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\FaceDetect.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         d:\c++\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\FaceDetect.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt AddSampleDlg.cpp BCMenu.cpp BkDialogST.cpp BtnST.cpp Dib.cpp FaceDetect.cpp FaceDetectDlg.cpp HairFace.cpp LikelyHood.cpp ReplaceDlg.cpp
+         ReplaceDlg.cpp
+         LikelyHood.cpp
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(329): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(329): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(329): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(334): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(335): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(345): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(345): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(345): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(349): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(350): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(351): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(354): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(354): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(354): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(356): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(357): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(389): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(389): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(389): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(391): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(393): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(393): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(394): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(394): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(395): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\likelyhood.cpp(395): error C2065: “i”: 未声明的标识符
+         HairFace.cpp
+         FaceDetectDlg.cpp
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(997): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(997): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(997): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(999): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(999): error C2228: “.rgbBlue”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1000): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1000): error C2228: “.rgbGreen”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1000): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1000): error C2228: “.rgbRed”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1001): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1001): error C2228: “.rgbBlue”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1002): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1002): error C2228: “.rgbGreen”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1002): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1002): error C2228: “.rgbRed”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1004): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1004): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1004): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1006): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1006): error C2228: “.rgbBlue”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1007): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1007): error C2228: “.rgbGreen”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1007): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1007): error C2228: “.rgbRed”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1008): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1008): error C2228: “.rgbBlue”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1009): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1009): error C2228: “.rgbGreen”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1009): error C2065: “j”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1009): error C2228: “.rgbRed”的左边必须有类/结构/联合
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1066): error C2668: “sqrt”: 对重载函数的调用不明确
+                 d:\c++\vs\vc\include\math.h(589): 可能是“long double sqrt(long double)”
+                 d:\c++\vs\vc\include\math.h(541): 或       “float sqrt(float)”
+                 d:\c++\vs\vc\include\math.h(127): 或       “double sqrt(double)”
+                 尝试匹配参数列表“(int)”时
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1084): error C2668: “sqrt”: 对重载函数的调用不明确
+                 d:\c++\vs\vc\include\math.h(589): 可能是“long double sqrt(long double)”
+                 d:\c++\vs\vc\include\math.h(541): 或       “float sqrt(float)”
+                 d:\c++\vs\vc\include\math.h(127): 或       “double sqrt(double)”
+                 尝试匹配参数列表“(int)”时
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1196): error C2668: “sqrt”: 对重载函数的调用不明确
+                 d:\c++\vs\vc\include\math.h(589): 可能是“long double sqrt(long double)”
+                 d:\c++\vs\vc\include\math.h(541): 或       “float sqrt(float)”
+                 d:\c++\vs\vc\include\math.h(127): 或       “double sqrt(double)”
+                 尝试匹配参数列表“(int)”时
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1341): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1342): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1347): error C2668: “fabs”: 对重载函数的调用不明确
+                 d:\c++\vs\vc\include\math.h(565): 可能是“long double fabs(long double)”
+                 d:\c++\vs\vc\include\math.h(517): 或       “float fabs(float)”
+                 d:\c++\vs\vc\include\math.h(118): 或       “double fabs(double)”
+                 尝试匹配参数列表“(int)”时
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1348): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1355): error C2668: “sqrt”: 对重载函数的调用不明确
+                 d:\c++\vs\vc\include\math.h(589): 可能是“long double sqrt(long double)”
+                 d:\c++\vs\vc\include\math.h(541): 或       “float sqrt(float)”
+                 d:\c++\vs\vc\include\math.h(127): 或       “double sqrt(double)”
+                 尝试匹配参数列表“(int)”时
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1376): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetectdlg.cpp(1377): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+         FaceDetect.cpp
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\facedetect.cpp(54): warning C4996: 'CWinApp::Enable3dControlsStatic': CWinApp::Enable3dControlsStatic is no longer needed. You should remove this call.
+                 d:\c++\vs\vc\atlmfc\include\afxwin.h(5347) : 参见“CWinApp::Enable3dControlsStatic”的声明
+         Dib.cpp
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\dib.cpp(116): error C2039: “ReadHuge”: 不是“CFile”的成员
+                 d:\c++\vs\vc\atlmfc\include\afx.h(989) : 参见“CFile”的声明
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\dib.cpp(160): error C2039: “WriteHuge”: 不是“CFile”的成员
+                 d:\c++\vs\vc\atlmfc\include\afx.h(989) : 参见“CFile”的声明
+         BCMenu.cpp
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(210): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vs\vc\include\string.h(283) : 参见“wcscpy”的声明
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(1666): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vs\vc\include\string.h(283) : 参见“wcscpy”的声明
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(1948): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2471): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2471): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2471): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2472): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2472): error C2227: “->nID”的左边必须指向类/结构/联合/泛型类型
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2473): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2474): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2534): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2534): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2534): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2535): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2535): error C2227: “->nID”的左边必须指向类/结构/联合/泛型类型
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2536): error C2065: “i”: 未声明的标识符
+     1>e:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\bcmenu.cpp(2537): error C2065: “i”: 未声明的标识符
+         AddSampleDlg.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         BtnST.cpp
+         BkDialogST.cpp
+     1>已完成生成项目“E:\学习资料\毕业设计！！！！\图像\人脸评分\人脸评分\人脸评分\FaceDetect.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.91
